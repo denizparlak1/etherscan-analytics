@@ -40,7 +40,7 @@ The **Etherscan Analytics Project** is a real-time analytics platform designed t
 
 ### 1. Clone the Repository
     ```bash
-    git clone https://github.com/your-repo/etherscan-analytics.git
+    git clone https://github.com/denizparlak1/etherscan-analytics.git
     cd etherscan-analytics
 
 ### 2. Set Up application.properties
